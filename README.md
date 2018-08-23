@@ -1,13 +1,13 @@
-![mat](https://s22.postimg.cc/v4eg3rww1/image.png)![mat](https://s22.postimg.cc/f65qdv7vl/image.png)
+![mat](https://s22.postimg.cc/v4eg3rww1/image.png)![mat](https://s22.postimg.cc/f65qdv7vl/image.png)![mat](https://s22.postimg.cc/l8dd44je9/image.png)
 
 The description of My Android Tools
 (Note:need root access)
 
 My android tools :
-1. enable/disable components(activity,service,receiver,provider
+Enable/disable components(activity,service,receiver,provider
 
-★red:disabled.
-★blue:running currently (just for service)
+ ★Red:disabled.
+ ★Blue:running currently (just for service)
 2. show all running tasks and processes(with pid and uid)
 3. show the logcat
 4. show the sharedpreferences and sqlite database of all apps

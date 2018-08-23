@@ -4,7 +4,8 @@ The description of My Android Tools
 (Note:need root access)
 
 My android tools :
-1. enable/disable components(activity,service,receiver,provider)
+1. enable/disable components(activity,service,receiver,provider
+
 ★red:disabled.
 ★blue:running currently (just for service)
 2. show all running tasks and processes(with pid and uid)

@@ -16,7 +16,7 @@ Enable/disable components(activity,service,receiver,provider
 ----------------------------------
 
 Pro version:https://play.google.com/store/apps/details?id=cn.wq.myandroidtoolspro
-
+(No longer available on play store)
 ----------------------------------
 ★Activity: An activity represents a single screen with a user interface.
 ★Service: A service is a component that runs in the background to perform long-running operations or to perform work for remote processes.
@@ -27,9 +27,7 @@ Pro version:https://play.google.com/store/apps/details?id=cn.wq.myandroidtoolspr
 # My-Android-Tools-Backup-
 Backup Of Services, Broadcast Receiver,Activity &amp; Content Provider To Disable Ads, Analytics &amp; Campaign Tracking
 # Lite
-- Lite has just ads,analytics & campaign tracking disabled.
-# Intermediate
-Intermediate has more stuff 
+- Lite has just ads,analytics & campaign tracking disabled. 
 # Advanced 
 - Advanced has firebase, app measurement & gms disabled use it on your own risk.
 No banking app touched in any of these backup.

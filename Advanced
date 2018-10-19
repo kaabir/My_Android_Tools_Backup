@@ -82,14 +82,9 @@ com.android.vending/com.google.android.finsky.instantapps.dna.ArchiveDownloadBro
 com.android.vending/com.google.android.finsky.protect.ExternalPlayProtectHomeEntryPoint
 com.android.vending/com.google.android.finsky.scheduler.FirebaseJobDispatcherEngine$FirebaseJobDispatcherService
 com.android.vending/com.google.android.finsky.services.AdIdListener
-com.android.vending/com.google.android.finsky.setup.RestoreService
-com.android.vending/com.google.android.finsky.setupui.VpaSelectionOptionalStepActivity
-com.android.vending/com.google.android.finsky.verifier.impl.PackageVerificationService
-com.android.vending/com.google.android.finsky.wear.WearSupportService
 com.android.vending/com.google.android.gms.ads.AdActivity
 com.android.vending/com.google.firebase.iid.FirebaseInstanceIdReceiver
 com.android.vending/com.google.firebase.iid.FirebaseInstanceIdService
-com.android.webview/org.chromium.android_webview.crash.AwMinidumpUploadJobService
 com.arcai.netcut/com.google.android.gms.ads.AdActivity
 com.arcai.netcut/com.google.firebase.provider.FirebaseInitProvider
 com.athan/com.athan.receiver.InstallReceiver
@@ -528,7 +523,6 @@ com.google.android.gsf/com.google.android.gsf.update.SystemUpdateService$Receive
 com.google.android.gsf/com.google.android.gsf.update.SystemUpdateService$SecretCodeReceiver
 com.google.android.inputmethod.latin/com.firebase.jobdispatcher.GooglePlayReceiver
 com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.latin.core.ApkUpdatedReceiver
-com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.crash.UserFeedbackActivity
 com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.dataservice.superpacks.SuperpacksBackgroundTaskService
 com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.dataservice.superpacks.SuperpacksForegroundTaskService
 com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.dataservice.superpacks.SuperpacksTaskService
@@ -1023,7 +1017,6 @@ com.reddit.frontpage/com.google.firebase.messaging.FirebaseMessagingService
 com.reddit.frontpage/com.instabug.bug.network.InstabugBugsUploaderService
 com.reddit.frontpage/com.instabug.chat.network.InstabugMessageUploaderService
 com.reddit.frontpage/com.instabug.chat.network.InstabugPushNotificationTokenService
-com.reddit.frontpage/com.instabug.crash.network.InstabugCrashesUploaderService
 com.reddit.frontpage/com.instabug.library.analytics.network.InstabugAnalyticsUploaderService
 com.reddit.frontpage/com.instabug.library.invocation.invocationdialog.InstabugDialogActivity
 com.reddit.frontpage/com.instabug.library.network.worker.uploader.InstabugSessionUploaderService
@@ -1035,7 +1028,6 @@ com.reddit.frontpage/com.reddit.frontpage.sync.AppDataSyncService
 com.reddit.frontpage/io.branch.referral.InstallListener
 com.roidapp.photogrid/com.adcolony.sdk.AdColonyAdViewActivity
 com.roidapp.photogrid/com.adcolony.sdk.AdColonyInterstitialActivity
-com.roidapp.photogrid/com.cleanmaster.base.crash.CrashReportService
 com.roidapp.photogrid/com.cmcm.orion.picks.impl.VideoAdDetailActivity
 com.roidapp.photogrid/com.crashlytics.android.CrashlyticsInitProvider
 com.roidapp.photogrid/com.facebook.FacebookActivity
@@ -1604,10 +1596,6 @@ kr.co.ladybugs.fourto/com.google.firebase.iid.FirebaseInstanceIdReceiver
 kr.co.ladybugs.fourto/com.google.firebase.iid.FirebaseInstanceIdService
 kr.co.ladybugs.fourto/com.google.firebase.provider.FirebaseInitProvider
 kr.co.ladybugs.fourto/kr.co.ladybugs.fourto.CheckAppVerSvc
-mark.via.gp/mark.via.database.BookmarksProvider
-mark.via.gp/mark.via.ui.activity.CrashActivity
-mark.via.gp/mark.via.ui.setting.AddonsSettings
-mark.via.gp/mark.via.ui.setting.CloudSettings
 me.pkhope.longscreenshot/com.google.android.gms.ads.AdActivity
 me.pkhope.longscreenshot/com.google.android.gms.ads.purchase.InAppPurchaseActivity
 me.pkhope.longscreenshot/com.google.android.gms.common.api.GoogleApiActivity
@@ -1626,7 +1614,6 @@ org.cambridge.dictionary.advanced.learners.fourth/com.paragon.component.news.Ads
 org.cambridge.dictionary.advanced.learners.fourth/com.paragon.component.news.AdsPushReceiver
 org.cyanogenmod.cmsettings/org.cyanogenmod.cmsettings.PreBootReceiver
 org.mozilla.fennec_aurora/com.google.android.gms.gcm.GcmReceiver
-org.mozilla.fennec_aurora/org.mozilla.gecko.CrashReporterService
 org.mozilla.fennec_aurora/org.mozilla.gecko.distribution.ReferrerReceiver
 org.mozilla.fennec_aurora/org.mozilla.gecko.gcm.GcmInstanceIDListenerService
 org.mozilla.fennec_aurora/org.mozilla.gecko.gcm.GcmMessageListenerService

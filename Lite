@@ -731,7 +731,6 @@ in.swiggy.android/com.google.android.gms.analytics.AnalyticsService
 in.swiggy.android/com.google.android.gms.analytics.CampaignTrackingReceiver
 in.swiggy.android/in.swiggy.android.services.AppIndexingUpdateService
 kr.co.ladybugs.fourto/kr.co.ladybugs.fourto.CheckAppVerSvc
-mark.via.gp/mark.via.ui.activity.CrashActivity
 me.pkhope.longscreenshot/com.google.android.gms.ads.AdActivity
 me.pkhope.longscreenshot/com.google.android.gms.ads.purchase.InAppPurchaseActivity
 me.pkhope.longscreenshot/com.google.android.gms.common.api.GoogleApiActivity

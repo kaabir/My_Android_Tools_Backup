@@ -308,7 +308,6 @@ com.google.android.apps.nbu.files/com.google.firebase.iid.FirebaseInstanceIdInte
 com.google.android.apps.nbu.files/com.google.firebase.iid.FirebaseInstanceIdReceiver
 com.google.android.apps.nbu.files/com.google.firebase.iid.FirebaseInstanceIdService
 com.google.android.apps.nbu.files/com.google.firebase.messaging.FirebaseMessagingService
-com.google.android.apps.nbu.files/com.google.firebase.provider.FirebaseInitProvider
 com.google.android.apps.photos/com.google.android.gms.ads.AdActivity
 com.google.android.apps.photos/com.google.android.gms.analytics.AnalyticsJobService
 com.google.android.apps.photos/com.google.android.gms.analytics.AnalyticsReceiver

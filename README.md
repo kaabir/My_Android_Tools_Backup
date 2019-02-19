@@ -15,7 +15,7 @@ Enable/disable components(activity,service,receiver,provider
 
 ----------------------------------
 
-Pro version:https://play.google.com/store/apps/details?id=cn.wq.myandroidtoolspro
+Pro version: https://play.google.com/store/apps/details?id=cn.wq.myandroidtoolspro
 (No longer available on play store)
 ----------------------------------
 ★Activity: An activity represents a single screen with a user interface.
@@ -24,12 +24,57 @@ Pro version:https://play.google.com/store/apps/details?id=cn.wq.myandroidtoolspr
 ★Broadcast receivers: A broadcast receiver is a component that responds to system-wide broadcast announcements.
 ★Shared Preferences: Store private primitive data in key-value pairs.
 
-# My-Android-Tools-Backup-
-Backup Of Services, Broadcast Receiver,Activity &amp; Content Provider To Disable Ads, Analytics &amp; Campaign Tracking
-# Lite
-- Lite has just ads,analytics & campaign tracking disabled. 
-# Advanced 
-- Advanced has firebase, app measurement & gms disabled use it on your own risk.
-No banking app touched in any of these backup.
+# Activities Targeted
+Accountkit
+AdAlarmHelperService
+AdClientPopupActivity
+AdColonyAdViewActivity
+AdColonyFullscreen
+AdIdListener
+AdMarvelActivity
+AdReminderHelperService
+AdTriggerEventsService
+AdsActivity
+AnalyticsJobService
+AnalyticsReceiver
+AnalyticsService
+AppLovinInterstitialActivity
+AppLovinInterstitialActivity
+AppMeasurementInstallReferrerReceiver
+AppMeasurementJobService
+AppMeasurementReceiver
+AppMeasurementService
+AppTrackingService
+CampaignTrackingService
+Crashlytics
+CrashlyticsInitProvider
+Facebook.ads.AudienceNetworkActivity
+FirebaseInstanceIdService
+FirebaseJobDispatcher
+FlexViewAdActivity
+FlurryTileAdActivity
+InMobiAdActivity
+InneractiveInterstitialAdActivity
+InterstitialActivity
+InterstitialAdActivity
+MVOfferWallActivity
+MVRewardVideoActivity
+MoPubActivity
+MobileAdsInitProvider
+MraidActivity
+MultipleInstallBroadcastReceiver
+Referral.InstallListener
+SplashAdsActivity
+TelemetryService
+VASTAdActivity
 
-My Android Tools Apk : https://apkpure.com/my-android-tools/cn.wq.myandroidtools
+# My-Android-Tools-Backup-
+Backup Of Services, Broadcast Receiver, Activity & Content Provider To Disable Ads, Analytics & Tracking
+# Lite
+- Lite Version - Includes Ads,Telemetry Analytics & Campaign Tracking 
+# Advanced 
+- Advanced Version - Includes to Firebase, App measurement & Play Services In Addition To Lite Version. Use it on your own risk.
+It might break normal functionality of the apps.
+
+# Updates
+Updates Are Published on Telegram Channel - https://t.me/matbackup

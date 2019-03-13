@@ -1745,6 +1745,12 @@ com.roidapp.photogrid/nativesdk.ad.aw.activity.MarketActivity
 com.roidapp.photogrid/nativesdk.ad.common.receiver.NetworkSwitchReceiver
 com.roidapp.photogrid/nativesdk.ad.common.service.AdPreloadService
 com.saavn.android/com.google.android.gms.measurement.AppMeasurementReceiver
+com.sasyabook.runningtrainstatus/com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+com.sasyabook.runningtrainstatus/com.google.android.gms.measurement.AppMeasurementJobService
+com.sasyabook.runningtrainstatus/com.google.android.gms.measurement.AppMeasurementReceiver
+com.sasyabook.runningtrainstatus/com.google.android.gms.measurement.AppMeasurementService
+com.sasyabook.runningtrainstatus/com.google.firebase.iid.FirebaseInstanceIdReceiver
+com.sasyabook.runningtrainstatus/com.google.firebase.iid.FirebaseInstanceIdService
 com.shanga.walli/com.google.android.gms.analytics.AnalyticsJobService
 com.shanga.walli/com.google.android.gms.analytics.AnalyticsReceiver
 com.shanga.walli/com.google.android.gms.analytics.AnalyticsService

@@ -230,6 +230,7 @@ com.bittorrent.client/com.vungle.publisher.MraidFullScreenAdActivity
 com.bittorrent.client/com.vungle.publisher.VideoFullScreenAdActivity
 com.bittorrent.client/com.yandex.metrica.MetricaService
 com.bittorrent.client/com.yandex.mobile.ads.AdActivity
+com.brave.browser/org.chromium.chrome.browser.customtabs.CustomTabsConnectionService
 com.catalinagroup.callrecorder/com.adclient.android.sdk.inapp.landing.AdClientInAppLandingActivity
 com.catalinagroup.callrecorder/com.adclient.android.sdk.install.AdClientPopupActivity
 com.catalinagroup.callrecorder/com.adclient.android.sdk.synchronization.AdClientSynchronizer
@@ -1304,6 +1305,10 @@ com.roidapp.photogrid/com.unity3d.ads.adunit.AdUnitActivity
 com.roidapp.photogrid/com.unity3d.ads.adunit.AdUnitSoftwareActivity
 com.roidapp.photogrid/nativesdk.ad.aw.activity.MarketActivity
 com.saavn.android/com.google.android.gms.measurement.AppMeasurementReceiver
+com.sasyabook.runningtrainstatus/com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+com.sasyabook.runningtrainstatus/com.google.android.gms.measurement.AppMeasurementJobService
+com.sasyabook.runningtrainstatus/com.google.android.gms.measurement.AppMeasurementReceiver
+com.sasyabook.runningtrainstatus/com.google.android.gms.measurement.AppMeasurementService
 com.shanga.walli/com.google.android.gms.analytics.AnalyticsJobService
 com.shanga.walli/com.google.android.gms.analytics.AnalyticsReceiver
 com.shanga.walli/com.google.android.gms.analytics.AnalyticsService

@@ -311,6 +311,8 @@ com.bittorrent.client/com.vungle.publisher.MraidFullScreenAdActivity
 com.bittorrent.client/com.vungle.publisher.VideoFullScreenAdActivity
 com.bittorrent.client/com.yandex.metrica.MetricaService
 com.bittorrent.client/com.yandex.mobile.ads.AdActivity
+com.brave.browser/org.chromium.chrome.browser.customtabs.CustomTabsConnectionService
+com.brave.browser/org.chromium.chrome.browser.media.MediaLauncherActivity
 com.catalinagroup.callrecorder/com.adclient.android.sdk.inapp.landing.AdClientInAppLandingActivity
 com.catalinagroup.callrecorder/com.adclient.android.sdk.install.AdClientPopupActivity
 com.catalinagroup.callrecorder/com.adclient.android.sdk.synchronization.AdClientSynchronizer
@@ -1288,8 +1290,14 @@ com.lenovo.anyshare.gps/com.google.firebase.iid.FirebaseInstanceIdReceiver
 com.lenovo.anyshare.gps/com.google.firebase.iid.FirebaseInstanceIdService
 com.lenovo.anyshare.gps/com.google.firebase.messaging.FirebaseMessagingService
 com.lenovo.anyshare.gps/com.lenovo.analytics.AnalyticsReceiver
+com.lenovo.anyshare.gps/com.mobi.sdk.AppInstallReceiver
 com.lenovo.anyshare.gps/com.mobi.sdk.InterstitialActivity
 com.lenovo.anyshare.gps/com.mopub.common.MoPubBrowser
+com.lenovo.anyshare.gps/com.ushareit.player.music.appwidget.AppWidgetProvider4x1
+com.lenovo.anyshare.gps/com.ushareit.player.music.appwidget.AppWidgetProvider4x2
+com.lenovo.anyshare.gps/com.ushareit.player.music.appwidget.AppWidgetProvider4x4
+com.lenovo.anyshare.gps/com.ushareit.player.music.service.AudioPlayService
+com.lenovo.anyshare.gps/com.ushareit.player.video.service.VideoPlayerService
 com.madeeasy.easy/com.google.android.gms.gcm.GcmReceiver
 com.media.bestrecorder.audiorecorder/com.google.android.gms.ads.AdActivity
 com.mgoogle.android.gms/com.mgoogle.android.gms.analytics.service.AnalyticsService
@@ -1810,6 +1818,13 @@ com.tdo.showbox/com.tdo.showbox.activities.CustomAdActivity
 com.tdo.showbox/com.tdo.showbox.data.push.FInstanceIDService
 com.tdo.showbox/com.tdo.showbox.data.push.FMessagingService
 com.techtrojanofficial.FreeLearn/com.google.android.gms.ads.AdActivity
+com.tencent.ig/com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+com.tencent.ig/com.google.android.gms.measurement.AppMeasurementJobService
+com.tencent.ig/com.google.android.gms.measurement.AppMeasurementReceiver
+com.tencent.ig/com.google.android.gms.measurement.AppMeasurementService
+com.tencent.ig/com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+com.tencent.ig/com.google.firebase.iid.FirebaseInstanceIdReceiver
+com.tencent.ig/com.google.firebase.iid.FirebaseInstanceIdService
 com.teslacoilsw.launcher.prime/com.teslacoilsw.launcher.prime.AnalyticsReceiver
 com.teslacoilsw.launcher.prime/com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity
 com.teslacoilsw.launcher/com.crashlytics.android.CrashlyticsInitProvider
@@ -2698,3 +2713,4 @@ ru.pt.iconpack.pixel/com.google.firebase.iid.FirebaseInstanceIdReceiver
 ru.pt.iconpack.pixel/com.google.firebase.iid.FirebaseInstanceIdService
 ru.pt.iconpack.pixel/com.google.firebase.messaging.FirebaseMessagingService
 ru.pt.iconpack.pixel/com.onesignal.GcmBroadcastReceiver
+com.kiwibrowser.browser/org.chromium.chrome.browser.customtabs.CustomTabsConnectionService
